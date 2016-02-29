@@ -7,7 +7,7 @@ license:             BSD3
 license-file:        LICENSE
 author:              Jason Shipman
 maintainer:          jasonpshipman@gmail.com
-copyright:           Copyright (C) 2015 Jason Shipman
+copyright:           Copyright (C) 2016 Jason Shipman
 category:            FRP
 build-type:          Simple
 cabal-version:       >=1.10
