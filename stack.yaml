@@ -1,6 +1,8 @@
-resolver: lts-4.0
+resolver: lts-5.2
 packages:
 - '.'
+- location: local_deps/netwire
+  extra-dep: true
 extra-deps: []
 flags: {}
 extra-package-dbs: []
